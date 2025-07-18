@@ -27,24 +27,9 @@ Enter name: Sakshi
 Enter phone number: 9876543210
 Enter email: sakshi@example.com
 Contact added successfully!
-📌 Future Improvements (Optional)
-Save contacts to a file (using CSV or JSON)
 
-Load contacts from a file at startup
+-contact Sakshi Sable//email//sakshisable703@gmail.com//www.linkedin.com/in/sakshi-sable-76002b342
 
-Add update/edit contact functionality
-
-GUI interface using Tkinter
-
-
-
-
- ✅ To Add It on GitHub:
-1. Create a new file in your GitHub repo named `README.md`.
-2. Paste the content above.
-3. Commit the file.
-
-Would you also like help creating a `LICENSE` file or improving this app to store contacts permanently using a file or database?
 
 
 
